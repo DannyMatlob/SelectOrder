@@ -1,6 +1,8 @@
 # SelectOrder
-An imitation of SQL
+An imitation of SQL's retrieval engine which interprets a command, retrieves the information from a table, and sorts it according to the input.
 
+
+# Instructions for the assignment:
 For the coding part of the homework, I want you to show me you still remember Java and to get you thinking about what might be involved in programming even a tiny part of a DBMS system. Two common database queries operations are selection which returns a subset of rows from a database table and order by which sorts the query results in either ascending or descending order according to the values in some column. For this homework, you will write a program SelectOrder.java that will do this for text file based tables. To grade your program, the grader will first compile it using the command:
 
 javac SelectOrder.java
